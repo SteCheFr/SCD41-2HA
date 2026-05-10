@@ -29,7 +29,3 @@ Integration: Native Home Assistant support via ESPHome integration
 Power Supply: 5 V via USB Type-C connector
 
 🔵 Actual versions : Hardware : 1.0 ---- Software : 1.0
-
-🟡 The last version of the code : Config_EPS32.yaml is Here
-
-🟢 If you want to modify the script (Config_ESP32.yaml) yourself, Click here to read Documentation/Modifications_by_yourself.pdf.
